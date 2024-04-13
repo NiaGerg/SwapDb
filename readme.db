@@ -1,0 +1,13 @@
+Prerequisites
+
+Python 3.x
+pymongo (for MongoDB interaction)
+sqlite3 (built-in, for SQLite interaction)
+
+Setup Instructions
+
+Clone the repository to your local machine.
+Ensure that Python 3.x is installed.
+Install the required packages:
+pip install pymongo
+Run the scripts.
